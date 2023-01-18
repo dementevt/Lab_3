@@ -2,8 +2,11 @@
     <string name="test_name">Имя:</string>
     <string name="test_age">Возраст:</string>
     <string name="app_name">MyProfile</string>
-    <string name="test_spec">Специализация</string>
+    <string name="test_spec">Профиль</string>
     <string name="test_photo">Фото</string>
     <string name="test_project">Проекты</string>
     <string name="test_achievements">Достижения</string>
+    <string name="name">Стив Джобс</string>
+    <string name="age">56</string>
+    <string name="spec">Изобретатель</string>
 </resources>
