@@ -180,13 +180,13 @@
             android:layout_width="130dp"
             android:layout_height="130dp"
             android:layout_marginRight="8dp"
-            app:srcCompat="@drawable/apple" />
+            app:srcCompat="@drawable/original" />
 
         <ImageView
             android:id="@+id/imageView8"
             android:layout_width="130dp"
             android:layout_height="130dp"
-            app:srcCompat="@drawable/original" />
+            app:srcCompat="@drawable/apple" />
 
         <ImageView
             android:id="@+id/imageView5"
@@ -202,14 +202,14 @@
             android:layout_height="130dp"
             android:layout_marginTop="5dp"
             android:layout_marginRight="8dp"
-            app:srcCompat="@drawable/ipod" />
+            app:srcCompat="@drawable/mac" />
 
         <ImageView
             android:id="@+id/imageView4"
             android:layout_width="130dp"
             android:layout_height="130dp"
             android:layout_marginTop="5dp"
-            app:srcCompat="@drawable/mac" />
+            app:srcCompat="@drawable/ipod" />
     </androidx.gridlayout.widget.GridLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
